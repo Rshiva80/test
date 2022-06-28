@@ -11,7 +11,6 @@ public class MassMutual {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://worksite.genuinedev.com/");
 		System.out.println("This is test");
-
 	}
 
 }
