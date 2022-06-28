@@ -10,7 +10,6 @@ public class MassMutual {
 		System.setProperty("webdriver.chrome.driver" , "/Users/ruby.shiva/Desktop/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://worksite.genuinedev.com/");
-		System.out.println("Testing commit");
 	}
 
 }
