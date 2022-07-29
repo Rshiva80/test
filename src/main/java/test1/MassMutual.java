@@ -21,7 +21,7 @@ public class MassMutual {
 		driver.findElement(By.name("Phone")).sendKeys("1234567890");
 		driver.findElement(By.name("Zip")).sendKeys("02118");
 		driver.findElement(By.name("Requested_Agency")).sendKeys("Genuine");
-		System.out.println("Worksite opened");
+		System.out.println("Worksite is opened");
 	}
 
 }
